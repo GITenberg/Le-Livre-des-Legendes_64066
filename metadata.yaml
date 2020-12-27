@@ -1,5 +1,5 @@
 _repo: Le-Livre-des-Legendes_64066
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Palmér, Fritiof
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1916
     gutenberg_agent_id: '52736'
     url: http://www.gutenberg.org/2009/agents/52736
+covers:
+- cover_type: archival
+  image_path: 64066-h/images/legendes_cover.jpg
 creator:
   author:
     agent_name: Lagerlöf, Selma
@@ -24,6 +27,8 @@ creator:
     - https://en.wikipedia.org/wiki/Selma_Lagerlöf
     - https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64066#Le-Livre-des-Legendes
 gutenberg_issued: '2020-12-17'
 gutenberg_type: Text
 identifiers:
