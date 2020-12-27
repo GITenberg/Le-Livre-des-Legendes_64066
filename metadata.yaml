@@ -1,0 +1,45 @@
+_repo: Le-Livre-des-Legendes_64066
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Palmér, Fritiof
+    alias: Palmer, Fritiof
+    birthdate: 1879
+    deathdate: 1916
+    gutenberg_agent_id: '52736'
+    url: http://www.gutenberg.org/2009/agents/52736
+creator:
+  author:
+    agent_name: Lagerlöf, Selma
+    aliases:
+    - Lagerlof, Selma
+    - Lagerlöf, Selma Ottiliana Lovisa
+    - Lagerloef, Selma
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '1717'
+    url: http://www.gutenberg.org/2009/agents/1717
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+    - https://en.wikipedia.org/wiki/Selma_Lagerlöf
+    - https://sv.wikipedia.org/wiki/Selma_Lagerl%C3%B6f
+description: ''
+gutenberg_issued: '2020-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64066'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into French'
+- !lcsh 'Short stories, Swedish -- Translations into French'
+- GITenberg
+tableOfContents: La Légende d'une dette, racontée au banquet Nobel, le 10 décembre
+  1909 -- La fille du Grand-Marais -- La Mine d'Argent -- La Légende de la Rose de
+  Noël -- La Marche nuptiale -- Le Joueur de violon -- Une Légende de Jérusalem --
+  Pourquoi le Pape devint si vieux -- Le Ballon.
+title: Le Livre des Légendes
+url: http://www.gutenberg.org/ebooks/64066
